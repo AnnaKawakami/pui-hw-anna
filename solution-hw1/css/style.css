@@ -1,0 +1,56 @@
+img.logo {
+    width: 400px;
+  }
+
+img.buns-gallery {
+    width: 400px;
+    border: 2px solid black;
+}
+
+img.buns-detail {
+    width: 600px;
+    border: 2px solid black;
+}
+
+img.buns-cart {
+    width: 200px;
+    border: 2px solid black;
+}
+
+p {
+    font-size: 20px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight:bold;
+    background-color:yellow;
+}
+
+div.rolls {
+    width: 400px;
+    margin: auto;
+}
+
+div.center {
+    text-align: center;
+}
+
+div.right {
+    text-align: right;
+}
+
+div.left {
+    text-align: left;
+}
+
+#red {
+    color: red;
+}
+
+.green {
+    color:green;
+}
